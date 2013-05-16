@@ -2,7 +2,7 @@
 Overview of my projects and some other informatin
 
 ### Public
-* [LIFO](https://github.com/vdevos/C-LIFO)
+* [LIFO](http://vdevos.github.io/C-LIFO/) - A Last In First Out Linked List implementation in C
 
 ### Private
 * [VPS](https://github.com/vdevos/VPS)
