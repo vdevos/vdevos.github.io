@@ -1,8 +1,6 @@
-### Abstract
-Overview of my projects and some other informatin
-
 ### Public
 * [LIFO](http://vdevos.github.io/C-LIFO/) - A Last In First Out Linked List implementation in C
+* [C Graphite Client](http://vdevos.github.io/C-Graphite-Client/) - This pure C Graphite Client allows you to send metrics to Graphite/Carbon
 
 ### Private
 * [VPS](https://github.com/vdevos/VPS)
